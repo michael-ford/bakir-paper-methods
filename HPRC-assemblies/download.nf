@@ -1,5 +1,19 @@
 nextflow.enable.dsl=2
 
+process fetchSampleList {
+
+    publishDir "./", mode: 'rellink'
+
+    output:
+    path "sample_list.out"
+
+    script:
+    """
+    curl -L -o sample_list.out 'https://raw.githubusercontent.com/mourisl/T1K_manuscript_evaluation/083d262/HPRC_process/sample_list.out'
+    """
+}
+
+
 process downloadFiles {
 
     publishDir "./", mode: 'rellink'
@@ -20,6 +34,8 @@ process downloadFiles {
 }
 
 workflow {
-    downloadFiles(Channel.fromPath("../T1K-paper-data/Supplemental_Code/T1K_manuscript_evaluation/HPRC_process/sample_list.out")
+    sample_list_path = fetchSampleList()
+
+    downloadFiles(sample_list_path
                 .splitText().map{it -> it.trim()})
 }
