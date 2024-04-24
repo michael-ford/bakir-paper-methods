@@ -1,6 +1,9 @@
-[submodule "skirt"]
-	path = skirt
-	url = ./skirt
 [submodule "Immuannot"]
 	path = Immuannot
-	url = ./Immuannot/
+	url = git@github.com:YingZhou001/Immuannot.git
+[submodule "bakir"]
+	path = bakir
+	url = git@github.com:michael-ford/bakir.git
+[submodule "skirt"]
+	path = skirt
+	url = git@github.com:calvinckhung/skirt.git
