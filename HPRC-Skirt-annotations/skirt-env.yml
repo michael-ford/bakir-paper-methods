@@ -1,0 +1,11 @@
+name: skirt    
+channels:      
+  - bioconda   
+  - conda-forge
+  - defaults   
+dependencies:  
+  - biopython  
+  - blast      
+  - minimap2   
+  - pandas     
+  - python=3.6 
