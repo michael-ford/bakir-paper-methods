@@ -1,10 +1,22 @@
-name: main-env
+name: bakir_analysis
 channels:
-  - conda-forge
   - bioconda
+  - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - nextflow
   - numpy
   - pandas
-  - nextflow
+  - python=3.9
+  - ipykernel
+  - biopython
+  - panel
+  - pyfastx
+  - yaml
+  - parasail-python
+  - mappy
+  - dill
+  - matplotlib
+  - seaborn
+  - clustalw
+  - papermill
