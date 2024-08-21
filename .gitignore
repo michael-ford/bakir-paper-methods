@@ -1,0 +1,78 @@
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.whl
+*.so
+
+# Virtualenv
+env/
+venv/
+ENV/
+.venv/
+pip-wheel-metadata/
+*.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+*.dat
+*.db
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pytest
+.pytest_cache/
+
+# Nextflow-specific ignores
+**/work/
+.results/
+.nextflow/
+.nextflow.log
+.nextflow.cache
+.nextflow.scratch/
+*.nextflow*
+.nf*
+
+# Other common ignores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.bak
+*.swp
+*.swo
+*.orig
+*.rej
+
+# Local config files
+*.local
+*.secret
+*.env
+
