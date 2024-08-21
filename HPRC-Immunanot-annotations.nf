@@ -5,12 +5,13 @@ nextflow.enable.dsl = 2
 params.data_dir = "${workflow.projectDir}/HPRC-assemblies"  // Base directory for data
 params.script_path = "${workflow.projectDir}/Immuannot/scripts/immuannot.sh"
 params.resources_dir = "${workflow.projectDir}/Immuannot-data/Data-2023Oct27"
+params.publish_directory = "${workflow.projectDir}/HPRC-Skirt-annotations"  // Directory to publish results
 params.threads = 12
 
 // Define a process to run immuannot.sh
 process RunImmuannot {
     tag "${sample_id}"
-    publishDir "${workflow.projectDir}/HPRC-Immunanot-annotations", mode: 'rellink'
+    publishDir "${params.publish_directory}", mode: 'rellink'
 
     input:
         tuple val(sample_id), path(contig_file)

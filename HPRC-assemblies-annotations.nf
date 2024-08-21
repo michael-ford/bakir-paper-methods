@@ -1,7 +1,7 @@
 nextflow.enable.dsl=2
 
 params.data_dir = "${workflow.projectDir}/HPRC-assemblies"  // Base directory for data
-
+params.publish_directory = "${workflow.projectDir}/HPRC-assemblies-annotations"  // Directory to publish results
 
 process runBakir {
     /*
@@ -9,7 +9,7 @@ process runBakir {
     Assumes 'bakir' is available and configured correctly in the environment.
     */
     label 'bakir_process'
-    publishDir "${workflow.projectDir}/HPRC-assemblies-annotations", mode: 'rellink'
+    publishDir "${params.publish_directory}", mode: 'rellink'
 
     input:
     tuple val(subject), path(input_file)
@@ -26,7 +26,7 @@ process runBakir {
     base_name=\$(basename $input_file .fa.gz)
 
     # Run kir-annotator and redirect output and error
-    bakir -o "$subject/\$base_name" "$input_file" > "$subject/\$base_name.stdout" 2> "$subject/\$base_name.stderr"
+    bakir -o "$subject/\$base_name" "$input_file"
     """
 }
 

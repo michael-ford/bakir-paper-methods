@@ -25,9 +25,24 @@ def load_skirt_data(file_path: str) -> List[Dict[str, str]]:
     """
     skirt = pd.read_csv(file_path)
     skirt = skirt.rename({'kir_allele': 'template_allele', 'target_start': 'start', 'target_end': 'end', 'target_name': 'contig'}, axis='columns')
-    skirt['gene_name'] = skirt['template_allele'].apply(lambda x: x.split('*')[0])
-    skirt = skirt.to_dict('records')
-    return skirt
+    skirt['gene_name'] = skirt['template_allele'].apply(skirt_gene_parser)
+    return skirt.to_dict('records')
+
+def skirt_gene_parser(template_allele: str) -> str:
+    """
+    Parse gene name from SKIRT gene string.
+    
+    Args:
+        gene (str): The gene string from SKIRT.
+    
+    Returns:
+        str: The parsed gene name.
+    """
+    if '-' not in template_allele:
+        return template_allele.split('*')[0]
+    genes = template_allele.split('-')
+    genes = [x.split('*')[0] if "KIR" in x else "KIR"+x.split('*')[0] for x in genes]
+    return '-'.join(genes)
 
 def extract_immunannot_gene_features(file_path: str) -> List[Dict[str, str]]:
     """
@@ -51,15 +66,24 @@ def extract_immunannot_gene_features(file_path: str) -> List[Dict[str, str]]:
                 continue  # Ensure the line has enough parts to process
 
             feature_type = parts[2]
-            if feature_type == 'gene':
+            if feature_type == 'transcript':
                 attributes = parts[8]
-                attributes_dict = {attr.strip().split(' ')[0]: attr.strip().split(' ')[1].strip('"') for attr in attributes.split(';') if attr}
+                attributes_dict = {attr.strip().split(' ')[0]: attr.strip().split(' ')[1].strip('"') for attr in attributes.split(';') if attr and len(attr.split(' ')) > 1}
+                if "KIR" not in attributes_dict['gene_name']:
+                    continue
+                alleles = attributes_dict['alleles'].split(',')
+                diff_alleles = [x for x in alleles[1:] if x[:11] != alleles[0][:11]]
+
+                if len(diff_alleles) > 1:
+                    logger.warning(f"File {file_path}:\nMultiple alleles found for a single transcript: {alleles}\nChoosing {alleles[0]} as the assigned allele.")
+                alleles = alleles[0]
                 gene_features.append({
                     'contig': parts[0],
                     'source': parts[1],
                     'start': int(parts[3]),
                     'end': int(parts[4]),
-                    'strand': parts[6]
+                    'strand': parts[6],
+                    'template_allele': alleles
                 })
                 gene_features[-1].update(attributes_dict)
 
@@ -133,8 +157,8 @@ def group_annotations_by_gene_immunanot(annotations: List[Dict]) -> Dict[str, Li
     """
     grouped = defaultdict(list)
     for annot in annotations:
-        gene_name = annot['gene_name']
-        grouped[gene_name].append(annot)
+        for gene in annot['gene_name'].split('-'): # in case there are multiple genes called for the same annotation
+            grouped[gene].append(annot)
     return grouped
 
 def report_discrepancies(discrepancies: List[str]) -> None:

@@ -4,7 +4,7 @@ conda env create --yes -f bakir_analyis_environment.yml
 conda activate bakir_analysis
 pip install ./bakir
 
-conda env create --yes -f HPRC-assemblies-annotations/bakir/bakir-env.yml
+conda env create --yes -f bakir/bakir-env.yml
 conda activate bakir
 pip install ./bakir
 
@@ -12,6 +12,7 @@ conda deactivate
 
 # Immunannot env
 conda env create --yes -f HPRC-Immunanot-annotations/immunannot-env.yaml
+mkdir Immuannot-data
 wget https://zenodo.org/records/8372992/files/Data-2023Oct27.tar.gz -O Immuannot-data/refData-2023Oct27.tar.gz
 tar xzvf Immuannot-data/refData-2023Oct27.tar.gz -C Immuannot-data/
 
