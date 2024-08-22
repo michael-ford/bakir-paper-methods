@@ -38,4 +38,5 @@ nextflow run HPRC-Immunannot-annotations.nf -profile immunannot
 nextflow run HPRC-Skirt-annotations.nf -profile skirt
 
 # Generate notebook with figures and tables
-papermill --kernel python3 figures-data-generation.ipynb figures-data-generation.ipynb
+conda activate bakir_analysis
+papermill --kernel python3 figures-data-generation-template.ipynb figures-data-generation-out.ipynb

@@ -1,0 +1,384 @@
+2024-08-21 13:59:59,977 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG01175.maternal/HG01175.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:00:06,081 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:00:06,081 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:00:06,430 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02622.maternal/HG02622.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:00:08,578 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:00:08,578 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:00:10,150 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG03492.maternal/HG03492.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:00:10,929 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG03540.maternal/HG03540.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:00:14,212 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG002.maternal
+2024-08-21 14:00:14,215 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:00:14,543 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG002.paternal
+2024-08-21 14:00:14,632 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:14,633 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1973 A>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:14,770 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00438.maternal
+2024-08-21 14:00:15,286 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00438.paternal
+2024-08-21 14:00:15,289 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL3
+2024-08-21 14:00:15,577 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG005.maternal
+2024-08-21 14:00:15,956 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG005.paternal
+2024-08-21 14:00:16,301 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00621.maternal
+2024-08-21 14:00:16,778 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00621.paternal
+2024-08-21 14:00:17,015 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00673.maternal
+2024-08-21 14:00:17,518 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00673.paternal
+2024-08-21 14:00:17,814 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00733.maternal
+2024-08-21 14:00:17,816 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:00:18,401 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00733.paternal
+2024-08-21 14:00:18,439 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00735.maternal
+2024-08-21 14:00:18,822 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00735.paternal
+2024-08-21 14:00:19,466 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00741.maternal
+2024-08-21 14:00:19,873 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG00741.paternal
+2024-08-21 14:00:19,880 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS1
+2024-08-21 14:00:19,883 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01071.maternal
+2024-08-21 14:00:20,296 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01071.paternal
+2024-08-21 14:00:20,768 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01106.maternal
+2024-08-21 14:00:20,946 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01106.paternal
+2024-08-21 14:00:21,354 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01109.maternal
+2024-08-21 14:00:21,356 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:00:21,573 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:21,574 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1973 A>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:21,857 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01109.paternal
+2024-08-21 14:00:22,187 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01123.maternal
+2024-08-21 14:00:22,189 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:00:22,488 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01123.paternal
+2024-08-21 14:00:22,491 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:00:22,606 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:22,606 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3706 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:22,625 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5528 G>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:23,062 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01175.maternal
+2024-08-21 14:00:23,109 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:23,110 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1973 A>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:23,111 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:23,475 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01175.paternal
+2024-08-21 14:00:24,032 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01243.maternal
+2024-08-21 14:00:24,476 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01258.maternal
+2024-08-21 14:00:24,527 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01243.paternal
+2024-08-21 14:00:24,530 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS5
+2024-08-21 14:00:25,110 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01358.maternal
+2024-08-21 14:00:25,139 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01258.paternal
+2024-08-21 14:00:25,910 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01358.paternal
+2024-08-21 14:00:25,984 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01361.maternal
+2024-08-21 14:00:26,374 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01361.paternal
+2024-08-21 14:00:27,041 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01891.maternal
+2024-08-21 14:00:27,043 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS5
+2024-08-21 14:00:27,397 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01891.paternal
+2024-08-21 14:00:28,088 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01928.maternal
+2024-08-21 14:00:28,666 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01928.paternal
+2024-08-21 14:00:29,369 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01952.maternal
+2024-08-21 14:00:29,372 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL3
+2024-08-21 14:00:29,689 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:29,690 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1973 A>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:30,688 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:30,689 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1973 A>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:30,696 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:31,973 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:31,974 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3706 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:31,975 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5528 G>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:36,484 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:36,485 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1973 A>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:00:41,046 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01952.paternal
+2024-08-21 14:00:41,049 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS2
+2024-08-21 14:00:41,661 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01978.maternal
+2024-08-21 14:00:42,612 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG01978.paternal
+2024-08-21 14:00:43,329 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02055.maternal
+2024-08-21 14:00:43,331 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:00:48,754 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS2
+2024-08-21 14:00:49,497 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02055.paternal
+2024-08-21 14:00:50,093 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02080.maternal
+2024-08-21 14:00:50,817 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02080.paternal
+2024-08-21 14:00:51,365 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02109.maternal
+2024-08-21 14:00:51,368 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL2
+2024-08-21 14:01:01,621 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02109.paternal
+2024-08-21 14:01:01,623 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:01:10,292 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02145.maternal
+2024-08-21 14:01:10,295 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:01:11,069 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5806 T>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:11,070 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3944 G>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:19,794 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS4
+2024-08-21 14:01:23,848 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02145.paternal
+2024-08-21 14:01:24,423 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02148.maternal
+2024-08-21 14:01:25,197 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02148.paternal
+2024-08-21 14:01:25,799 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02257.maternal
+2024-08-21 14:01:26,413 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02257.paternal
+2024-08-21 14:01:26,415 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL2
+2024-08-21 14:01:30,308 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02486.maternal
+2024-08-21 14:01:31,043 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02486.paternal
+2024-08-21 14:01:31,490 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02559.maternal
+2024-08-21 14:01:31,795 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02559.paternal
+2024-08-21 14:01:31,797 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL3
+2024-08-21 14:01:32,404 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02572.paternal
+2024-08-21 14:01:32,406 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:01:32,565 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02572.maternal
+2024-08-21 14:01:32,567 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:01:32,768 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:01:32,768 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:01:32,796 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5693 T>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:32,796 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3706 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:36,042 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02622.maternal
+2024-08-21 14:01:36,687 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02622.paternal
+2024-08-21 14:01:36,689 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:01:36,945 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:36,945 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:36,947 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:39,229 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL3
+2024-08-21 14:01:39,599 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:01:39,600 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:01:44,399 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02630.maternal
+2024-08-21 14:01:44,401 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL1
+2024-08-21 14:01:44,859 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS4
+2024-08-21 14:01:46,265 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02630.paternal
+2024-08-21 14:01:46,268 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:01:47,273 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:47,274 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5528 G>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:47,275 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:47,344 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:47,345 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:47,348 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:49,704 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL4
+2024-08-21 14:01:55,391 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:55,392 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5528 G>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:55,393 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:58,014 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:01:58,721 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:58,722 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:58,732 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5685 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:58,733 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:01:59,620 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:02:07,943 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02717.maternal
+2024-08-21 14:02:07,945 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:02:08,339 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:08,340 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:08,341 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:10,181 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:02:15,936 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02717.paternal
+2024-08-21 14:02:16,720 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02723.maternal
+2024-08-21 14:02:17,144 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02723.paternal
+2024-08-21 14:02:17,146 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:02:17,346 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02818.maternal
+2024-08-21 14:02:17,348 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:02:17,650 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 292 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,650 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2158 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,653 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 277 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,654 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3949 G>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,655 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3984 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,657 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 9181 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,659 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5923 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,660 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3972 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,662 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,663 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2195 T>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,664 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2157 T>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,665 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2250 A>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,666 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2391 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,687 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,688 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3978 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,690 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2170 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,693 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2180 G>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,694 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2366 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,695 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 4057 G>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,698 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2248 G>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,699 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2343 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,700 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2279 G>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,702 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2236 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,703 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3977 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,704 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5854 T>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,705 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 4065 G>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,707 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2395 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,708 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2306 A>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,710 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12599 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,721 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 4001 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,722 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2398 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:17,723 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2321 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:20,074 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 282 G>A on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:20,074 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:20,081 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:30,096 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02818.paternal
+2024-08-21 14:02:30,696 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02886.maternal
+2024-08-21 14:02:30,699 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:02:30,984 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:02:30,984 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:02:31,023 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5693 T>G on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:31,023 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3706 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:32,236 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG02886.paternal
+2024-08-21 14:02:32,238 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:02:32,381 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:02:37,504 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL3
+2024-08-21 14:02:38,011 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:02:38,012 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:02:41,203 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03098.maternal
+2024-08-21 14:02:41,205 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:02:42,038 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:02:42,321 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:02:42,321 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02572.maternal/HG02572.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:02:42,523 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2379 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,524 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3972 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,525 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,527 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3977 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,528 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2350 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,529 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,532 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12599 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,534 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3978 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,535 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 4023 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:42,536 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 9181 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+/vf/users/fordmk/bakir-paper-methods/comparison_alignment_parallel.py:126: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  closest_alleles = pd.concat([closest_alleles_i, closest_alleles_s])
+2024-08-21 14:02:49,911 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03098.paternal
+2024-08-21 14:02:49,913 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS5
+2024-08-21 14:02:55,384 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03453.maternal
+2024-08-21 14:02:55,387 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL2
+2024-08-21 14:02:57,629 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:02:58,210 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:58,211 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:58,213 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5685 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:02:58,214 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,261 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:03:07,819 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,819 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2379 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,820 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3972 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,822 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12505 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,823 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,824 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3977 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,825 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2350 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,826 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3992 T>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,827 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,830 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12599 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,834 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3978 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,835 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 4023 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:07,836 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 9181 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:12,102 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:03:12,439 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:12,439 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:12,445 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5685 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:12,448 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:19,112 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03453.paternal
+2024-08-21 14:03:19,115 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL3
+2024-08-21 14:03:19,562 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03486.maternal
+2024-08-21 14:03:19,564 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL2
+2024-08-21 14:03:33,443 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:03:33,873 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:33,874 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:33,875 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5685 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:33,876 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:37,180 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:03:38,054 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,054 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2379 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,058 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3972 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,060 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12505 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,062 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,063 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3977 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,064 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2350 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,066 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3992 T>C on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,069 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,071 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12599 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,072 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3978 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,073 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 4023 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:38,074 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 9181 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:42,363 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03486.paternal
+2024-08-21 14:03:42,366 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:03:43,440 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:03:43,677 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:03:43,677 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG02886.maternal/HG02886.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR3DP1*0030401', 'KIR3DP1*0030402', 'KIR3DP1*0150101', 'KIR3DP1*0150102', 'KIR3DP1*0150103']
+Choosing KIR3DP1*0030401 as the assigned allele.
+2024-08-21 14:03:43,840 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2379 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,840 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3972 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,841 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,842 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3977 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,843 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 2350 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,844 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,845 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12599 C>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,846 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 3978 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,848 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 4023 C>T on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:43,849 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 9181 G>A on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:03:45,687 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03492.maternal
+2024-08-21 14:03:45,689 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:03:45,833 - comparison_functions - WARNING - [comparison_functions.py:78] - File HPRC-Immunanot-annotations/HG03492.maternal/HG03492.maternal.gtf.gz:
+Multiple alleles found for a single transcript: ['KIR2DP1*0020101', 'KIR2DP1*0020102', 'KIR2DP1*0020103', 'KIR2DP1*0020104', 'KIR2DP1*0020105', 'KIR2DP1*0020106', 'KIR2DP1*0020107', 'KIR2DP1*0020108', 'KIR2DP1*0020109', 'KIR2DP1*0020110', 'KIR2DP1*0030101', 'KIR2DP1*0030102']
+Choosing KIR2DP1*0020101 as the assigned allele.
+2024-08-21 14:03:51,575 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03492.paternal
+2024-08-21 14:03:52,049 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03516.maternal
+2024-08-21 14:03:52,686 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03516.paternal
+2024-08-21 14:03:52,688 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:03:56,078 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL4
+2024-08-21 14:03:58,109 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03540.maternal
+2024-08-21 14:03:58,836 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03540.paternal
+2024-08-21 14:03:58,838 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:04:14,052 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03579.maternal
+2024-08-21 14:04:14,655 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample HG03579.paternal
+2024-08-21 14:04:14,657 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:04:17,297 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL4
+2024-08-21 14:04:17,656 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA18906.maternal
+2024-08-21 14:04:18,297 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA18906.paternal
+2024-08-21 14:04:18,299 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL1
+2024-08-21 14:04:19,257 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA19240.maternal
+2024-08-21 14:04:19,260 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL2
+2024-08-21 14:04:23,863 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA19240.paternal
+2024-08-21 14:04:23,866 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:04:28,483 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA20129.maternal
+2024-08-21 14:04:29,142 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA20129.paternal
+2024-08-21 14:04:29,144 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:04:32,522 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA21309.maternal
+2024-08-21 14:04:32,524 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL3
+2024-08-21 14:04:43,496 - root - INFO - [comparison_alignment_parallel.py:56] - ---> Sample NA21309.paternal
+2024-08-21 14:04:43,498 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DP1
+2024-08-21 14:04:43,905 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:43,906 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5528 G>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:43,908 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:47,964 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:04:48,511 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:48,512 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:48,513 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5685 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:48,514 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:53,267 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5550 T>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:53,267 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5528 G>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:53,270 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 1080 A>C on wildtype KIR3DP1*001: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:04:59,154 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL1
+2024-08-21 14:04:59,378 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR3DL2
+2024-08-21 14:05:00,842 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS2
+2024-08-21 14:05:02,845 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS5
+2024-08-21 14:05:11,472 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DP1
+2024-08-21 14:05:11,808 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 288 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:05:11,809 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 12340 T>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:05:11,816 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5685 A>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:05:11,819 - root - WARNING - [alignment_variants.py:117] - Error translating sequence for variant 5790 C>G on wildtype KIR2DP1*0010201: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+2024-08-21 14:05:40,334 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS5
+2024-08-21 14:05:54,095 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL2
+2024-08-21 14:05:57,029 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS4
+2024-08-21 14:06:36,505 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DL3
+2024-08-21 14:06:59,956 - root - INFO - [comparison_alignment_parallel.py:69] - ----> Gene: KIR2DS1
